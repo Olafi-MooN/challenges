@@ -1,7 +1,9 @@
 # Diário de Bordo - Componente de Upload com ReactJs
 
 <div style="text-align:center">
-<iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/rVMray0KiHU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[![Video](http://img.youtube.com/vi/rVMray0KiHU&t/0.jpg)](http://www.youtube.com/watch?v=rVMray0KiHU&t 'Diário de Bordo - Componente de Upload com ReactJs')
+
 </div>
 Bem-vindo ao meu diário de bordo! Este repositório contém o código fonte e arquivos relacionados ao tutorial em vídeo "Componente de Upload com ReactJs" que você pode encontrar no meu canal do YouTube.
 
