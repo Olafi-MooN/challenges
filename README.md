@@ -3,6 +3,7 @@
 <div style="text-align:center">
 
 [![Video](http://img.youtube.com/vi/rVMray0KiHU&t/0.jpg)](http://www.youtube.com/watch?v=rVMray0KiHU&t 'Diário de Bordo - Componente de Upload com ReactJs')
+[![Now in Android: 55](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=Hc79sDi3f0U 'Now in Android: 55')
 
 </div>
 Bem-vindo ao meu diário de bordo! Este repositório contém o código fonte e arquivos relacionados ao tutorial em vídeo "Componente de Upload com ReactJs" que você pode encontrar no meu canal do YouTube.
