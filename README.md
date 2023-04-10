@@ -1,7 +1,8 @@
 # Diário de Bordo - Componente de Upload com ReactJs
 
+<div style="text-align:center">
 <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/rVMray0KiHU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+</div>
 Bem-vindo ao meu diário de bordo! Este repositório contém o código fonte e arquivos relacionados ao tutorial em vídeo "Componente de Upload com ReactJs" que você pode encontrar no meu canal do YouTube.
 
 Neste tutorial, vou mostrar como criar um componente de upload de arquivos com ReactJs. Você vai aprender a utilizar bibliotecas para lidar com uploads de arquivos, implementar a seleção e validação de tipos e tamanhos de arquivos, enviar arquivos para o servidor, exibir feedback ao usuário e implementar um sistema de progresso.
