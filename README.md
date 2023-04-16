@@ -14,10 +14,10 @@ Se você quiser participar dos desafios, visite o site [boracodar.dev](https://b
 
 Aqui estão as minhas participações nos desafios até agora:
 
-| #   | Desafio              | Link do Repositório                                                     | Link do Projeto                                                               |
-| --- | -------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 14  | Componente de Upload | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/upload)         | [🌐](https://challenges-upload.netlify.app/)                                  |
-| 15  | Pricing Table        | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/princing-table) | [🌐](https://portfolio-alef.netlify.app/62bfd983-3ff8-4235-b744-6dccadcd1e92) |
+| #   | Desafio              | Link do Repositório                                                     | Link do Projeto                                                                |
+| --- | -------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 14  | Componente de Upload | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/upload)         | [🇽](https://challenges-upload.netlify.app/)                                   |
+| 15  | Pricing Table        | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/princing-table) | [🟢](https://portfolio-alef.netlify.app/#62bfd983-3ff8-4235-b744-6dccadcd1e92) |
 
 <br>
 
