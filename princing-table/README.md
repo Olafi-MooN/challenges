@@ -1,25 +1,62 @@
-# Diário de Bordo - Componente de Upload com ReactJs
+<h1 align="center">Diário de Bordo - Componente de pricing table com ReactJs</h1>
+<p align="center">
+  #15 desafio <a href="https://boracodar.dev/">#BORACODAR</a><br/>
+</p>
 
-<div style="text-align:center">
+<p align="center">
+  <a href="#-Tecnologias Utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-video">Video</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-collaborators">Collaborators</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-#Clique na imagem para assistir o video:
-[![Diário de Bordo - Componente de Upload com ReactJs](https://i.ytimg.com/vi/rVMray0KiHU/maxresdefault.jpg)](https://www.youtube.com/watch?v=rVMray0KiHU 'Diário de Bordo - Componente de Upload com ReactJs')
+<br>
+<br>
+<br>
+
+<div style="text-align:center; width: 400px; margin: 0 auto;">
+
+Clique na imagem para assistir o video:
+
+[![Diário de Bordo - Componente pricing table com ReactJs](https://i.ytimg.com/vi/rVMray0KiHU/maxresdefault.jpg)](https://www.youtube.com/watch?v=rVMray0KiHU 'Diário de Bordo - Componente de pricing table com ReactJs')
 
 </div>
-Bem-vindo ao meu diário de bordo! Este repositório contém o código fonte e arquivos relacionados ao tutorial em vídeo "Componente de Upload com ReactJs" que você pode encontrar no meu canal do YouTube.
 
-Neste tutorial, vou mostrar como criar um componente de upload de arquivos com ReactJs. Você vai aprender a utilizar bibliotecas para lidar com uploads de arquivos, implementar a seleção e validação de tipos e tamanhos de arquivos, enviar arquivos para o servidor, exibir feedback ao usuário e implementar um sistema de progresso.
+<br>
+<br>
+<br>
 
-## Tecnologias Utilizadas
+Bem-vindo ao meu diário de bordo! Este repositório contém o código fonte e arquivos relacionados ao tutorial em vídeo "Componente de pricing table" que você pode encontrar no meu canal do YouTube.
+Neste tutorial, vou mostrar como criar um componente de card com ReactJs do zero absoluto sem utilizar nenhuma nenhuma biblioteca externa para animações, tudo isso sera feito apenas com css.
 
+<br>
+
+## 💠 Tecnologias Utilizadas
+
+-   Vite
 -   ReactJs
 -   JavaScript
 -   HTML
 -   CSS
+-   Git e Github
+-   Figma
 
-## Contribuindo
+<br>
+
+## 🔩 Funcionalidades
+
+1. Hover - Animado
+2. Animações - (keyframe, transition)
+3. Transições personalizadas
+4. Suavização
+
+<br>
+
+## 👥 Contribuindo
 
 Se você deseja contribuir com este projeto, sinta-se à vontade para abrir uma issue ou pull request. Será um prazer contar com a sua ajuda.
+
+<br>
 
 ## Licença
 
