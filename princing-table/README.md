@@ -18,7 +18,7 @@
 
 Clique na imagem para assistir o video:
 
-[![Diário de Bordo - Componente pricing table com ReactJs](https://i.ytimg.com/vi/rVMray0KiHU/maxresdefault.jpg)](https://www.youtube.com/watch?v=rVMray0KiHU 'Diário de Bordo - Componente de pricing table com ReactJs')
+[![Diário de Bordo - Componente pricing table com ReactJs](https://i.ytimg.com/vi/iDzqPIKgg0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=iDzqPIKgg0w 'Diário de Bordo - Componente de pricing table com ReactJs')
 
 </div>
 
