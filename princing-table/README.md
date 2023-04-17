@@ -27,6 +27,7 @@ Clique na imagem para assistir o video:
 <br>
 
 Bem-vindo ao meu diário de bordo! Este repositório contém o código fonte e arquivos relacionados ao tutorial em vídeo "Componente de pricing table" que você pode encontrar no meu canal do YouTube.
+
 Neste tutorial, vou mostrar como criar um componente de card com ReactJs do zero absoluto sem utilizar nenhuma nenhuma biblioteca externa para animações, tudo isso sera feito apenas com css.
 
 <br>
