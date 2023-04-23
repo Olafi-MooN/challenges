@@ -2,7 +2,6 @@ import { ContactHeader } from '../../components/contact-header/ContactHeader';
 import { ContactList } from '../../components/contact-list/ContactList';
 import { ContactsFunctions } from './ContactsFunctions';
 import './Contacts.css';
-import { useState } from 'react';
 
 const contactsList = [
 	{ name: 'Alef Santos', category: 'A', image: '', number: '18 4323-4324' },
