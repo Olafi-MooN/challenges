@@ -16,8 +16,9 @@ Aqui estão as minhas participações nos desafios até agora:
 
 | #   | Desafio              | Link do Repositório                                                     | Link do Projeto                                                               |
 | --- | -------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 14  | Componente de Upload | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/upload)         | [🇽](https://challenges-upload.netlify.app/)                                  |
+| 14  | Componente de Upload | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/upload)         | [🟢](https://portfolio-alef.netlify.app/129edd7d-b3fb-455d-933b-bb951a972f7f) |
 | 15  | Pricing Table        | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/princing-table) | [🟢](https://portfolio-alef.netlify.app/62bfd983-3ff8-4235-b744-6dccadcd1e92) |
+| 16  | Página de contatos   | [⭐](https://github.com/Olafi-MooN/challenges/tree/main/contact-page)   | [🟢](https://portfolio-alef.netlify.app/34ff409f-225a-4ee9-aab7-b872feb280d3) |
 
 <br>
 
