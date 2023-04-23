@@ -35,3 +35,9 @@
 .content-list-contacts::-webkit-scrollbar-thumb {
   background: var(--color-scroll-bar);
 }
+
+@media (max-width: 878px) {
+  .content-contacts {
+    width: 100%;
+  }
+}
