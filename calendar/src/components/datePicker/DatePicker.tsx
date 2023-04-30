@@ -10,7 +10,7 @@ interface IDatePickerProps {
 const DatePicker = (props: IDatePickerProps) => {
 	const { isRange } = props;
 	const [isOpenDatePicker, setIsOpenDatePicker] = useState<boolean>(false);
-	const [value, setValue] = useState<ISelectedDay | Date>({} as Date);
+	const [value, setValue] = useState<ISelectedDay | Date | null>(null);
 
 	return (
 		<>
@@ -29,7 +29,7 @@ const DatePicker = (props: IDatePickerProps) => {
 									(value as ISelectedDay).start.month.index ?? 1,
 									(value as ISelectedDay).start.day
 							  )?.toLocaleDateString('pt-BR')
-							: (value as Date)?.toLocaleDateString('pt-BR')!
+							: value
 							? (value as Date)?.toLocaleDateString('pt-BR')
 							: ''
 					}
