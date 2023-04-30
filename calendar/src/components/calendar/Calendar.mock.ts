@@ -25,7 +25,7 @@ const months: IMonth[] = [
 
 
 months.forEach((month, key) => {
-  month.listDays = Array.from({ length: month.days }, (v, i) => i + 1);
+  month.listDays = Array.from({ length: month.days }, (_v: any, i) => i + 1);
   month.index = key;
 })
 

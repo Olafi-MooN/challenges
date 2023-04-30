@@ -1,8 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { SelectedMonthYearType } from './content-month-year/ContentMonthYear';
 import { IMonth, months } from './Calendar.mock';
 import { IGetDaysBetweenReturn, getDaysBetween } from '../../utils/getDaysBetween';
-import { act } from 'react-dom/test-utils';
 import { ICalendarProps } from './Calendar';
 
 interface IUseCalendarFunctionsProps extends ICalendarProps {}

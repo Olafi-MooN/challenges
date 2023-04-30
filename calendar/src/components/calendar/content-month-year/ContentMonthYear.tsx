@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import './ContentMonthYear.css';
-import { HeaderCalendar, IHeaderCalendarProps } from '../header-calendar/HeaderCalendar';
+import { HeaderCalendar } from '../header-calendar/HeaderCalendar';
 import { IMonth, months } from '../Calendar.mock';
 
 type SelectedMonthYearType = { month: IMonth & { index: number }; year: number };

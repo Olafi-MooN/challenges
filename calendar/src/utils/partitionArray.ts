@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const partitionArray = (array: any[], lengthGroup: number) => {
   const partitionedArray = array.reduce(

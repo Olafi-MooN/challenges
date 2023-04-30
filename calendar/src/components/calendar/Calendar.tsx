@@ -4,7 +4,6 @@ import { HeaderCalendar } from './header-calendar/HeaderCalendar';
 import { ContentMonthYear } from './content-month-year/ContentMonthYear';
 import { ISelectedDay, monthDownUp, useCalendarFunctions } from './UseCalendar.functions';
 import { months } from './Calendar.mock';
-import { getDaysBetween } from '../../utils/getDaysBetween';
 
 interface ICalendarProps {
 	isRange?: boolean;
@@ -99,7 +98,7 @@ const Calendar = (props: ICalendarProps) => {
 
 								return (
 									<div
-										onClick={(e) => {
+										onClick={(_e) => {
 											if (isRange) {
 												setSelectedDay((prev) => {
 													if (prev?.start?.month && !prev?.end?.month) {

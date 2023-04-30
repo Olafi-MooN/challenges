@@ -1,6 +1,4 @@
-import React from 'react';
 import './HeaderCalendar.css';
-import { useCalendarFunctions } from '../UseCalendar.functions';
 
 interface IHeaderCalendarProps {
 	hideMoth?: boolean;
