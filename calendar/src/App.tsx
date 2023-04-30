@@ -6,11 +6,13 @@ const App = () => {
 	const [multiSelect, setMultiSelect] = useState<boolean>(false);
 	return (
 		<>
-			<DatePicker isRange={multiSelect} />
-			<div className="range-input">
-				<input type="checkbox" name="range" onClick={() => setMultiSelect((prev) => !prev)} id="range" />
-				<label htmlFor="range">Por período</label>
-			</div>
+			<form>
+				<DatePicker isRange={multiSelect} />
+				<div className="range-input">
+					<input type="checkbox" name="range" onClick={() => setMultiSelect((prev) => !prev)} id="range" />
+					<label htmlFor="range">Por período</label>
+				</div>
+			</form>
 		</>
 	);
 };

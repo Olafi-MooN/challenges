@@ -29,10 +29,11 @@ const DatePicker = (props: IDatePickerProps) => {
 									(value as ISelectedDay).start.month.index ?? 1,
 									(value as ISelectedDay).start.day
 							  )?.toLocaleDateString('pt-BR')
-							: (value as Date)?.toLocaleDateString('pt-BR')
+							: (value as Date)?.toLocaleDateString('pt-BR')!
+							? (value as Date)?.toLocaleDateString('pt-BR')
+							: ''
 					}
 				/>
-
 				{isRange && (
 					<input
 						type="text"

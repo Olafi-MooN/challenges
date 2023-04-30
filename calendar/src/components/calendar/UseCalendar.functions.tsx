@@ -39,10 +39,7 @@ const useCalendarFunctions = (props: IUseCalendarFunctionsProps) => {
 
 			if (listMonthArray?.length < 42) {
 				const rest = 42 - listMonthArray?.length;
-				console.log('getDaysNextMonth', getDaysNextMonth);
-				console.log('lastDayWeek', lastDayWeek);
 				const restDaysLastMonth = nextMonth?.listDays?.slice(lastDayWeek, rest === 0 ? 1 : rest + lastDayWeek).map((x) => ({ day: x, month: nextMonth })) as IListMonth[];
-				console.log(restDaysLastMonth);
 				listMonthArray = [...listMonthArray, ...restDaysLastMonth];
 			}
 

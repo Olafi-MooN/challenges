@@ -21,8 +21,6 @@ function getDaysBetween(start: DaysStartEndType['start'], end: DaysStartEndType[
   const days = [];
   let currentDate = startDate;
 
-  console.log('gatinha', endDate)
-
   while (currentDate <= endDate) {
     days.push({ day: currentDate.getDate(), index: currentDate.getMonth() });
     currentDate.setDate(currentDate.getDate() + 1);

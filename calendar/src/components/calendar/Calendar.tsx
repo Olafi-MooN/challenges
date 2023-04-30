@@ -27,9 +27,6 @@ const Calendar = (props: ICalendarProps) => {
 	} = useCalendarFunctions(props);
 	const { isRange, onSelectedDay, isOpen, setIsOpen } = props;
 
-	console.log(rangeOfDay);
-	console.log(listMonth);
-
 	return (
 		<>
 			{isOpen && (
