@@ -1,0 +1,59 @@
+.container-select-month-year {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 344px;
+  height: 320px;
+  background: var(--color-card-primary);
+  box-shadow: 0px 8px 32px rgba(0, 0, 0, 0.16);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px;
+  gap: 24px;
+}
+
+.content-select-month-year {
+
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(3, 82px);
+  grid-template-rows: 40px 40px 40px 40px;
+  align-items: center;
+  gap: 16px;
+
+}
+
+.content-select-month-year .month {
+  color: var(--font-colors-color-font-text);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all ease-in-out 400ms;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.content-select-month-year .month:hover {
+  background-color: var(--color-item-on-hover);
+}
+
+
+.content-select-month-year .month.selected {
+  background-color: var(--color-item-highlight);
+  color: var(--font-colors-color-font-on-highlight);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.content-select-month-year .month.selected:after {
+  content: '';
+  width: 4px;
+  height: 4px;
+  border-radius: 100%;
+  background-color: var(--font-colors-color-font-on-highlight);
+}

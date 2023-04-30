@@ -1,0 +1,34 @@
+.header-calendar {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  height: 24px;
+}
+
+.content-month-year {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.selected-month-year {
+  color: var(--font-colors-color-font-heading);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.arrow-calendar {
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  cursor: pointer;
+  transition: all ease-in-out 300ms;
+}
+
+.arrow-calendar:hover {
+  background-color: var(--color-item-on-hover);
+}

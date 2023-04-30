@@ -1,0 +1,14 @@
+.range-input {
+  margin-top: 20px;
+  display: flex;
+  gap: 8px;
+  justify-content: end;
+  align-items: center;
+  font-size: small;
+  cursor: pointer;
+}
+
+.range-input label,
+.range-input input {
+  cursor: pointer;
+}

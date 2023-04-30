@@ -1,0 +1,30 @@
+.container-input-date-picker {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.input-date-picker {
+  padding: 12px 8px 12px 14px;
+  background: #F4F4FF;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #7C7C8A;
+  border: none;
+}
+
+.container-input-date-picker-calendar {
+  position: absolute;
+  transform: translate(0%, -50%);
+}
+
+
+.container-input-date-picker-calendar {
+  position: absolute;
+  transform: translate(0%, -50%);
+}
